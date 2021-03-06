@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2531210416731851846}
   - component: {fileID: 2079275755891863768}
+  - component: {fileID: 3090724857174823768}
   m_Layer: 5
   m_Name: Table
   m_TagString: Untagged
@@ -62,3 +63,17 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &3090724857174823768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3253727566894505597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6750cd702e541904bb802fe5f78f5eb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  titleText: {fileID: 0}
+  rowPrefab: {fileID: 4650302146115789134, guid: 73d54e99d4a076745bf73c02750e2458, type: 3}
